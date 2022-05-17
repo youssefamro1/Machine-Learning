@@ -1,3 +1,4 @@
+#this project to know people interested in this ads with plots 
 # Logistic Regression
 
 # Importing the libraries
