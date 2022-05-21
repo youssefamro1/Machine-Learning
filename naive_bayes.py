@@ -1,5 +1,4 @@
 # Naive Bayes
-
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
@@ -52,6 +51,7 @@ plt.legend()
 plt.show()
 
 # Visualising the Test set results
+
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_test, y_test
 X1, X2 = np.meshgrid(np.arange(start = X_set[:, 0].min() - 1, stop = X_set[:, 0].max() + 1, step = 0.01),
