@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""
+""" 
 a simple implementation of Apriori algorithm by Python.
 """
 
@@ -31,7 +31,7 @@ class TransactionManager(object):
     def __init__(self, transactions):
         """
         Initialize.
-
+      
         Arguments:
             transactions -- A transaction iterable object
                             (eg. [['A', 'B'], ['B', 'C']]).
