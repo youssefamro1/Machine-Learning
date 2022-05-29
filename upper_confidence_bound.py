@@ -1,5 +1,5 @@
 # Upper Confidence Bound (UCB)
-
+# project to know the best ads 
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
