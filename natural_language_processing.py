@@ -10,7 +10,7 @@ dataset = pd.read_csv('Restaurant_Reviews.tsv', delimiter = '\t', quoting = 3)
 
 # Cleaning the texts
 import re
-import nltk
+import nltk 
 nltk.download('stopwords')
 nltk.download('stopwords')
 from nltk.corpus import stopwords
